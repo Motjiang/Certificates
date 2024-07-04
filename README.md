@@ -21,7 +21,7 @@ Welcome to my certificates repository Here, I showcase the various certification
   - ATTENTION TO DETAIL
 
 - Certificate:
-  - Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj
+  - [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)
     
 
 
