@@ -22,6 +22,8 @@ Welcome to my certificates repository Here, I showcase the various certification
 
 - Certificate:
   - [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)
+
+---
     
 #### - Name of the company: GE Aerospace Explore Digital Technology virtual experience program on Forage
 
@@ -43,14 +45,83 @@ Welcome to my certificates repository Here, I showcase the various certification
 - Certificate:
   -[ [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/GE%20Aerospace/fjk7MFbQbedPXb3ws_GE%20Aerospace_BzEbHJnCacnFekzbb_1718073142515_completion_certificate.pdf)    
 
-
+---
 
 ### 2. Data Analysis
-This category features certifications in data analysis, including proficiency in:
-- Python (pandas, matplotlib, seaborn)
-- Microsoft Power BI
-- DAX
-- Data storytelling and dashboard creation
+
+#### - Name of the company: PwC Switzerland Power BI Job Simulation on Forage
+
+- Coursework:
+  - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
+  - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+  - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+  - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+
+- Skills:
+  - POWER BI
+  - POWER BI DASHBOARD
+  - SELF-REFLECTION
+  - INSIGHTS AND ACTIONS
+  - DEFINING KPIS
+  - CALCULATING MEASURES
+  - CALCULATING MEASURES
+
+- Certificate:
+
+[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)
+
+---
+#### - Name of the company: Accenture North America Data Analytics and Visualization Job Simulation on Forage
+
+- Coursework:
+  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+  - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+  - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+- Skills:
+  - Communication
+  - Data Analysis
+  - Data Modeling
+  - Data Understanding
+  - Data Visualization
+  - Presentations
+  - Project Planning
+  - Public Speaking
+  - Storytelling
+  - Strategy
+  - Teamwork
+
+- Certificate:
+
+[[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)
+
+---
+#### - Name of the company: Quantium Data Analytics Job Simulation on Forage 
+
+- Coursework:
+  - Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
+  - Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
+  - Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+  - Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+    
+- Skills:
+  - Commercial Thinking
+  - Communication Skills
+  - Data Analysis
+  - Data Validation
+  - Data Visualization
+  - Data Wrangling
+  - Presentation Skills
+  - Programming
+  - Statistical Testing
+
+- Certificate:
+
+[[[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_BzEbHJnCacnFekzbb_1718158723496_completion_certificate.pdf)
+
+---
+
+
 
 ### 3. Machine Learning
 Here, you will find certificates related to machine learning, showcasing my knowledge and skills in this exciting field.
@@ -67,7 +138,7 @@ I am passionate about learning and growing in both software development and data
 
 ## Contact
 Feel free to connect with me for any queries or collaborations:
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Email](mailto:motjiangbrilliant@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/brilliant-nhlamolo-motjiang-77b536270/))
 
 Thank you for visiting my certificates repository!
