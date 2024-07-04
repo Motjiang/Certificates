@@ -23,6 +23,26 @@ Welcome to my certificates repository Here, I showcase the various certification
 - Certificate:
   - [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)
     
+#### - Name of the company: GE Aerospace Explore Digital Technology virtual experience program on Forage
+
+- Coursework:
+   - Completed a Vue.js UI development simulation for the Frontend Development Team, demonstrating proficiency in Vue SFC Playground.
+   - Applied Vue.js skills by adding features like headings, images, and dynamic variable displays. Implemented a compute button for efficient user interactions.
+   - Drafted clear technical requirements for a feature, suggesting optimal order times for plane parts.
+   - Explored strategies to align technical specifications with business requirements, ensuring effective solutions.
+
+- Skills:
+  - WRITTEN COMMUNICATION
+  - VUE.JS
+  - TECHNICAL REQUIREMENTS
+  - JAVASCRIPT
+  - FRONT-END DEVELOPMENT
+  - CRITICAL THINKING
+    
+
+- Certificate:
+  -[ [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/GE%20Aerospace/fjk7MFbQbedPXb3ws_GE%20Aerospace_BzEbHJnCacnFekzbb_1718073142515_completion_certificate.pdf)    
+
 
 
 ### 2. Data Analysis
