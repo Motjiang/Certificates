@@ -67,8 +67,8 @@ Welcome to my certificates repository Here, I showcase the various certification
   - CALCULATING MEASURES
 
 - Certificate:
-
-[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)
+  
+  - [](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)
 
 ---
 #### - Name of the company: Accenture North America Data Analytics and Visualization Job Simulation on Forage
@@ -93,7 +93,7 @@ Welcome to my certificates repository Here, I showcase the various certification
 
 - Certificate:
 
-[[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)
+  - [[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)
 
 ---
 #### - Name of the company: Quantium Data Analytics Job Simulation on Forage 
