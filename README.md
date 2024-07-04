@@ -43,7 +43,7 @@ Welcome to my certificates repository Here, I showcase the various certification
     
 
 - Certificate:
-  -[ [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/GE%20Aerospace/fjk7MFbQbedPXb3ws_GE%20Aerospace_BzEbHJnCacnFekzbb_1718073142515_completion_certificate.pdf)    
+  - [ [Check out the simulation here: https://www.theforage.com/simulations/new-york-jobs-ceo-council/software-engineering-mdyj](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/7GYaMYxc6zEcbpjYL_New%20York%20Jobs%20CEO%20Council_BzEbHJnCacnFekzbb_1718161131041_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/GE%20Aerospace/fjk7MFbQbedPXb3ws_GE%20Aerospace_BzEbHJnCacnFekzbb_1718073142515_completion_certificate.pdf)    
 
 ---
 
@@ -117,7 +117,7 @@ Welcome to my certificates repository Here, I showcase the various certification
 
 - Certificate:
 
-[[[](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf))](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_BzEbHJnCacnFekzbb_1718158723496_completion_certificate.pdf)
+- (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_BzEbHJnCacnFekzbb_1713994702944_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_BzEbHJnCacnFekzbb_1715643329712_completion_certificate.pdf)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_BzEbHJnCacnFekzbb_1718158723496_completion_certificate.pdf)
 
 ---
 
