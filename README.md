@@ -139,6 +139,6 @@ I am passionate about learning and growing in both software development and data
 ## Contact
 Feel free to connect with me for any queries or collaborations:
 - [Email](mailto:motjiangbrilliant@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/brilliant-nhlamolo-motjiang-77b536270/))
+- [LinkedIn](https://www.linkedin.com/in/brilliant-nhlamolo-motjiang-77b536270/)
 
 Thank you for visiting my certificates repository!
