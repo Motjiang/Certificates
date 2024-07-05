@@ -125,6 +125,7 @@ Welcome to my certificates repository Here, I showcase the various certification
 
 ### 3. Machine Learning
 Here, you will find certificates related to machine learning, showcasing my knowledge and skills in this exciting field.
+ - https://simpli-web.app.link/e/zXqRMHFyYKb
 
 ## About Me
 I am a 3rd-year student at Nelson Mandela University, pursuing a diploma in Information Technology with a major in Software Development. My coursework and experiences include:
